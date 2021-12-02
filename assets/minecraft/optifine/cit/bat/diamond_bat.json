@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:optifine/cit/bat/bat",
+	"textures": {
+		"layer0": "minecraft:optifine/cit/bat/diamond_bat"
+	}
+}

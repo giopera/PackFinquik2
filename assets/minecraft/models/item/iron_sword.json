@@ -1,0 +1,23 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1000001}, "model": "item/iron/longsword_iron"},
+		{"predicate": {"custom_model_data":1000002}, "model": "item/iron/katana_iron"},
+		{"predicate": {"custom_model_data":1000003}, "model": "item/iron/scythe_iron"},
+		{"predicate": {"custom_model_data":1000004}, "model": "item/iron/spear_iron"},
+		{"predicate": {"custom_model_data":1000005}, "model": "item/iron/rapier_iron"},
+		{"predicate": {"custom_model_data":1000006}, "model": "item/iron/knife_iron"},
+		{"predicate": {"custom_model_data":1000007}, "model": "item/misc/chorus"},
+		{"predicate": {"custom_model_data":1000010}, "model": "item/iron/saber_iron"},
+		{"predicate": {"custom_model_data":4000001}, "model": "item/bone/longsword_bone"},
+		{"predicate": {"custom_model_data":4000002}, "model": "item/bone/katana_bone"},
+		{"predicate": {"custom_model_data":4000003}, "model": "item/bone/scythe_bone"},
+		{"predicate": {"custom_model_data":4000004}, "model": "item/bone/spear_bone"},
+		{"predicate": {"custom_model_data":4000005}, "model": "item/bone/rapier_bone"},
+		{"predicate": {"custom_model_data":4000006}, "model": "item/bone/knife_bone"},
+		{"predicate": {"custom_model_data":9999997}, "model": "item/iron_sword"}
+	]
+}

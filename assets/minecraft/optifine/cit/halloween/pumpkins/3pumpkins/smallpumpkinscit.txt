@@ -1,0 +1,4 @@
+type=item
+items=pumpkin
+nbt.display.Name=ipattern:small pumpkins
+model=./smallpumpkins.json

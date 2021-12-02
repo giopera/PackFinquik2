@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/elytra"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1560001}, "model": "item/elytra_icons/eelytra"}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/diamond_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1000001}, "model": "item/diamond/longsword_diamond"},
+		{"predicate": {"custom_model_data":1000002}, "model": "item/diamond/katana_diamond"},
+		{"predicate": {"custom_model_data":1000003}, "model": "item/diamond/scythe_diamond"},
+		{"predicate": {"custom_model_data":1000004}, "model": "item/diamond/spear_diamond"},
+		{"predicate": {"custom_model_data":1000005}, "model": "item/diamond/rapier_diamond"},
+		{"predicate": {"custom_model_data":1000006}, "model": "item/diamond/knife_diamond"},
+		{"predicate": {"custom_model_data":1000010}, "model": "item/diamond/saber_diamond"},
+		{"predicate": {"custom_model_data":9999997}, "model": "item/diamond_sword"}
+	]
+}

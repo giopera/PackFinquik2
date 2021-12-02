@@ -1,0 +1,20 @@
+{
+  "parent": "item/crossbow",
+  "textures": {
+    "layer0": "item/bows/bcrossbow_pulling_1"
+  },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, -90, -45 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 90, 45 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, -90, -55 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 90, 35 ]
+        }
+    }
+}
