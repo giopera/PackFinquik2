@@ -4,5 +4,5 @@
   "craftory.action.hammer_hit": {"sounds": [{"name":"action/hammer_hit"}],"subtitle": "hammer hit"},
   "craftory.action.hammer_double_hit": {"sounds": [{"name":"action/hammer_double_hit"}],"subtitle": "hammer_double_hit"},
   "rickroll": {"sounds": [{"name":"custom/test"}],"subtitle": "rickroll"},
-  "SeLaFaiPartireMeglioSeUsiUna@CheNonComprendeTuttiIPlayerOSoloUnNome": {"sounds": [{"name":"custom/nothingtoseehere"}],"subtitle": "NOOO, MI DISSOCIO"}
+  "megliosenonlousi": {"sounds": [{"name":"custom/nothingtoseehere"}],"subtitle": "NOOO, MI DISSOCIO"}
 }
