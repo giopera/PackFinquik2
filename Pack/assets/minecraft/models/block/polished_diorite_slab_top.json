@@ -1,0 +1,9 @@
+{
+  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "block/parent/slab_top",
+  "textures": {
+    "bottom": "block/polished_diorite",
+    "top": "block/polished_diorite",
+    "side": "block/fixes/polished_diorite_slab"
+  }
+}

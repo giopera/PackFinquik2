@@ -1,0 +1,10 @@
+{
+	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+    "parent": "block/parent/farmland",
+    "textures": {
+        "particle": "block/dirt",
+		"top": "block/farmland",
+		"side": "block/farmland_side",
+		"dirt": "block/dirt"
+    }
+}

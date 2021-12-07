@@ -1,0 +1,7 @@
+{
+  "credit": "Custom Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "./orange"
+  }
+}

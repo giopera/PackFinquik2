@@ -1,0 +1,10 @@
+{
+  "credit": "Custom Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "block/orientable",
+  "textures": {
+    "top": "./yellow_carved_pumpkin_top",
+    "front": "./yellow_carved_pumpkin",
+    "side": "./yellow_carved_pumpkin_side",
+	"bottom": "./yellow_carved_pumpkin_bottom"
+  }
+}

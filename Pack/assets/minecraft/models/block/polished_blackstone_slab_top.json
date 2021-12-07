@@ -1,0 +1,9 @@
+{
+  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "block/parent/slab_top",
+  "textures": {
+    "bottom": "block/polished_blackstone",
+    "top": "block/polished_blackstone",
+    "side": "block/fixes/polished_blackstone_slab"
+  }
+}

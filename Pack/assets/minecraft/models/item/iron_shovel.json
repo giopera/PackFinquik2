@@ -1,9 +1,7 @@
 {
-  "parent": "minecraft:item/generated",
+  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "item/parent/shovel",
   "textures": {
-    "layer0": "minecraft:item/iron_shovel"
-  },
-  "overrides": [
-	{"predicate": {"custom_model_data": 1013},"model": "craftory:items/tools/excavator/iron_excavator"}
-	]
+    "layer0": "item/iron_shovel"
+  }
 }

@@ -1,0 +1,86 @@
+{
+	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-2, 9, -6, 4, 6, 3], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-3.525, 15, -4.5, 5, 4, 0], "textureOffset": [39, 19]},
+						{"coordinates": [-1.025, 15, -7, 0, 4, 5], "textureOffset": [39, 14]}
+					]
+				}
+			]
+		},
+		{
+			"part": "bill",
+			"id": "bill",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-2, 11, -8, 4, 2, 2], "textureOffset": [14, 0]}
+			]
+		},
+		{
+			"part": "chin",
+			"id": "chin",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-1, 9, -7, 2, 2, 2], "textureOffset": [14, 4]}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -8, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-3, 4, -3, 6, 8, 6], "textureOffset": [0, 9]}
+			],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [1, 4, 3, 0, 5, 5], "textureOffset": [49, 13]},
+						{"coordinates": [-1.5, 6.5, 3, 5, 0, 5], "textureOffset": [43, 23]}
+					]
+				}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-2, -5, -1],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-3, 0, -2, 3, 5, 3], "textureOffset": [26, 0]}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [1, -5, -1],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [0, 0, -2, 3, 5, 3], "textureOffset": [26, 0]}
+			]
+		}
+	]
+}

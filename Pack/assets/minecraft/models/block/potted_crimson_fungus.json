@@ -1,0 +1,10 @@
+{
+	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+    "parent": "block/parent/flower_pot_cross",
+    "textures": {
+        "particle": "block/flower_pot",
+		"flowerpot": "block/flower_pot",
+		"dirt": "block/crimson_nylium",
+		"plant": "block/crimson_fungus"
+    }
+}

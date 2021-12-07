@@ -1,0 +1,9 @@
+{
+  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "item/parent/fence",
+  "textures": {
+    "0": "block/warped_fence",
+	"1": "block/warped_stem",
+	"particle": "block/warped_fence"
+  }
+}

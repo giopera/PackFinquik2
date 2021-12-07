@@ -1,0 +1,11 @@
+{
+  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "block/orientable_with_bottom",
+  "textures": {
+    "top": "block/beehive_end",
+    "bottom": "block/beehive_end",
+    "side": "block/beehive_side",
+    "front": "block/beehive_front_honey_filled_02",
+    "particle": "block/beehive_side"
+  }
+}

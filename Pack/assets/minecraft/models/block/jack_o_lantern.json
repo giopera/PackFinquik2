@@ -1,0 +1,10 @@
+{
+  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "block/orientable",
+  "textures": {
+    "top": "block/pumpkin_top",
+    "front": "block/jack_o_lantern",
+    "side": "block/pumpkin_side",
+	"bottom": "block/pumpkin_bottom"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "block/parent/cake_with_candle",
+  "textures": {
+    "candle": "block/light_blue_candle",
+    "bottom": "block/cake_bottom",
+    "side": "block/cake_side",
+    "top": "block/light_blue_cake_top",
+    "particle": "block/cake_side"
+  }
+}

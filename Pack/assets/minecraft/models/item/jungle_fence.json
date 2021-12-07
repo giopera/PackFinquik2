@@ -1,0 +1,9 @@
+{
+  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "item/parent/fence",
+  "textures": {
+    "0": "block/jungle_fence",
+	"1": "block/jungle_log",
+	"particle": "block/jungle_fence"
+  }
+}

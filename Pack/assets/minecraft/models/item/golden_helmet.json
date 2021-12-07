@@ -1,9 +1,7 @@
 {
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/golden_helmet"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data":1000001}, "model": "item/em/helmet_em"}
-	]
+  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "item/parent/helmet",
+  "textures": {
+    "layer0": "item/golden_helmet"
+  }
 }
