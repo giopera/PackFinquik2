@@ -1,9 +1,0 @@
-{
-  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "block/parent/slab",
-  "textures": {
-    "bottom": "block/polished_granite",
-    "top": "block/polished_granite",
-    "side": "block/fixes/polished_granite_slab"
-  }
-}

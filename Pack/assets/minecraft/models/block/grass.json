@@ -1,8 +1,0 @@
-{
-	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-    "parent": "block/parent/tinted_plant",
-    "textures": {
-        "particle": "block/grass",
-		"cross": "block/grass"
-    }
-}

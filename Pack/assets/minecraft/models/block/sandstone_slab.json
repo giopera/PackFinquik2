@@ -1,9 +1,0 @@
-{
-  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "block/parent/slab",
-  "textures": {
-    "bottom": "block/sandstone_bottom",
-    "top": "block/sandstone_top",
-    "side": "block/fixes/sandstone_slab"
-  }
-}

@@ -1,7 +1,0 @@
-{
-	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-    "parent": "block/template_fence_gate_open",
-    "textures": {
-        "texture": "block/dark_oak_fence"
-    }
-}

@@ -1,7 +1,0 @@
-{
-	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/smooth_stone"
-    }
-}

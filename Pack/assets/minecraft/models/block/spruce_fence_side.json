@@ -1,7 +1,0 @@
-{
-	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-    "parent": "block/fence_side",
-    "textures": {
-        "texture": "block/spruce_fence"
-    }
-}

@@ -1,9 +1,0 @@
-{
-	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-    "parent": "block/template_item_frame_map",
-    "textures": {
-        "particle": "block/spruce_planks",
-        "wood": "block/spruce_planks",
-        "back": "block/item_frame"
-    }
-}
