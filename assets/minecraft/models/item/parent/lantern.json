@@ -1,7 +1,7 @@
 {
-	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "#texture"
+		"particle": ""
 	},
 	"elements": [
 		{
@@ -50,9 +50,9 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [75, 45, 0],
+			"rotation": [71, 45, 0],
 			"translation": [0, -2, -1.5],
-			"scale": [0.6, 0.6, 0.6]
+			"scale": [0.68, 0.68, 0.69]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [75, 45, 0],
@@ -74,15 +74,18 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
+			"rotation": [0, -180, 0],
 			"translation": [0, 3.25, 0],
 			"scale": [1.1, 1.1, 1.1]
 		},
 		"head": {
-			"scale": [0, 0, 0]
+			"translation": [0, 13.25, 0],
+			"scale": [0.86, 0.86, 0.86]
 		},
 		"fixed": {
-			"translation": [0, 2.25, 0]
+			"rotation": [90, 0, 0],
+			"translation": [0, 2.25, 45.25],
+			"scale": [1.5, 1.5, 1.53]
 		}
 	}
 }
