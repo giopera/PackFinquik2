@@ -1,9 +1,29 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/golden_axe"
-  },
-  "overrides": [
-	{"predicate": {"custom_model_data": 1022},"model": "craftory:items/tools/chainsaw/golden_chainsaw"}
-	]
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_axe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.85
+            },
+            "model": "item/gold_axe/gold_axe_02"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.9
+            },
+            "model": "item/gold_axe/gold_axe_03"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.95
+            },
+            "model": "item/gold_axe/gold_axe_04"
+        }
+    ]
 }

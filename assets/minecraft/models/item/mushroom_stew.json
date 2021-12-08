@@ -1,8 +1,7 @@
 {
-  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "item/parent/helmet",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/mushroom_stew",
-	"particle": "item/air"
+    "particle": "minecraft:item/transparent",
+    "layer0": "minecraft:item/mushroom_stew"
   }
 }

@@ -1,9 +1,29 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/diamond_axe"
-  },
-  "overrides": [
-	{"predicate": {"custom_model_data": 1023},"model": "craftory:items/tools/chainsaw/diamond_chainsaw"}
-	]
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_axe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.85
+            },
+            "model": "item/diamond_axe/diamond_axe_02"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.9
+            },
+            "model": "item/diamond_axe/diamond_axe_03"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.95
+            },
+            "model": "item/diamond_axe/diamond_axe_04"
+        }
+    ]
 }

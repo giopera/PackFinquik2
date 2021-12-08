@@ -1,10 +1,29 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/golden_pickaxe"
-  },
-  "overrides": [
-	{"predicate": {"custom_model_data": 1010},"model": "craftory:items/tools/drill/golden_drill"},
-	{"predicate": {"custom_model_data": 1018},"model": "craftory:items/tools/power_hammer/golden_power_hammer"}
-	]
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_pickaxe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.85
+            },
+            "model": "item/gold_pickaxe/gold_pickaxe_02"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.9
+            },
+            "model": "item/gold_pickaxe/gold_pickaxe_03"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.95
+            },
+            "model": "item/gold_pickaxe/gold_pickaxe_04"
+        }
+    ]
 }
