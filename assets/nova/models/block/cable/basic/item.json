@@ -1,6 +1,0 @@
-{
-	"parent": "nova:block/cable/all",
-	"textures": {
-		"0": "nova:block/cable/basic"
-	}
-}
