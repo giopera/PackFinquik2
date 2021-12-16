@@ -1,8 +1,0 @@
-{
-  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "item/parent/lantern",
-  "textures": {
-    "particle": "block/lantern",
-    "all": "block/lantern"
-  }
-}
