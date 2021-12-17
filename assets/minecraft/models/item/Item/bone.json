@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/bone"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":2222222}, "model": "item/misc/wbone"}
+	]
+}

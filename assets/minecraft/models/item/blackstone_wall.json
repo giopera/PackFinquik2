@@ -1,8 +1,0 @@
-{
-  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "item/parent/wall",
-  "textures": {
-    "0": "block/blackstone",
-    "particle": "block/blackstone"
-  }
-}

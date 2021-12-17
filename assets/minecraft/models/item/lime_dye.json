@@ -1,7 +1,0 @@
-{
-  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "item/parent/helmet",
-  "textures": {
-    "layer0": "item/lime_dye"
-  }
-}

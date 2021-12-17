@@ -1,0 +1,8 @@
+{
+  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
+  "parent": "block/template_azalea",
+  "textures": {
+	"top": "item/flowering_azalea_top",
+    "side": "item/flowering_azalea_side"
+  }
+}

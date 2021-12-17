@@ -1,3 +1,0 @@
-{"parent":"block/iron_block","overrides": [
-	{"predicate":{"custom_model_data": 1001},"model":"craftory:block/powered/generator/solar/basic_solar_panel"}
-	]}
