@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "bat"
+		"0": "./bat"
 	},
 	"elements": [
 		{
@@ -278,6 +278,7 @@
 			"scale": [0.45, 0.45, 0.45]
 		},
 		"head": {
+			"rotation": [-22.75, 0, 0],
 			"translation": [0, 12.5, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
