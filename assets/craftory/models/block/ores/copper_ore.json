@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/base/block_real",
-  "textures": {
-	"particle": "craftory:block/ores/copper_ore",
-    "all": "craftory:block/ores/copper_ore"
-  }
-}
