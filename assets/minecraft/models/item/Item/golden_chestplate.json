@@ -1,9 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/golden_chestplate"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data":1000001}, "model": "item/em/chestplate_em"}
-	]
-}

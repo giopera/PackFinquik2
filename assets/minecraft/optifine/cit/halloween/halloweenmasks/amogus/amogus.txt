@@ -1,4 +1,0 @@
-type=item
-items=diamond_helmet netherite_helmet chainmail_helmet iron_helmet golden_helmet turtle_helmet leather_helmet
-texture=maskitem.png
-nbt.display.Name=ipattern:among us Mask

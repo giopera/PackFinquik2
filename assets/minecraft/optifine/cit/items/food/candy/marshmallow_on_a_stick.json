@@ -1,8 +1,0 @@
-{
-  "credit": "Custom Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "./marshmallow_on_a_stick",
-	"particle": "./marshmallow_on_a_stick"
-  }
-}

@@ -1,6 +1,0 @@
-{
-	"parent": "nova:block/machine_frame/machine_frame",
-	"textures": {
-		"inside": "nova:block/ultimate_machine_frame"
-	}
-}

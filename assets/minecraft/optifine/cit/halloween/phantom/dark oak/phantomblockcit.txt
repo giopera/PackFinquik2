@@ -1,4 +1,0 @@
-type=item
-items=phantom_membrane
-nbt.display.Name=ipattern:hanging phantom dark oak
-model=./phantomblock.json

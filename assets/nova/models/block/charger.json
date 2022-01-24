@@ -1,8 +1,0 @@
-{
-	"parent": "nova:block/block_front_side_top",
-	"textures": {
-		"front": "nova:block/charger",
-		"side": "nova:block/charger",
-		"top": "nova:block/machine_top"
-	}
-}

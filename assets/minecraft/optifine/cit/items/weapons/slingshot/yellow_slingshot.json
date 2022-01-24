@@ -1,7 +1,0 @@
-{
-  "credit": "Custom Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "./slingshot",
-  "textures": {
-    "layer0": "./yellow_slingshot"
-  }
-}

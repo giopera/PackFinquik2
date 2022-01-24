@@ -1,7 +1,0 @@
-{
-	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/debug_stick"
-    }
-}

@@ -1,7 +1,0 @@
-{
-  "credit": "Custom Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "item/snowball",
-  "textures": {
-    "layer0": "optifine/cit/items/food/vegetable/tomato"
-  }
-}

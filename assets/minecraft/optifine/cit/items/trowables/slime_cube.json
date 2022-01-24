@@ -1,8 +1,0 @@
-{
-  "credit": "Custom Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "block/slime_block",
-  "textures": {
-    "particle": "block/slime_block",
-    "texture": "block/slime_block"
-  }
-}

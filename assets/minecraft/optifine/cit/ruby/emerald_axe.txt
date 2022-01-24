@@ -1,4 +1,0 @@
-type=item
-items=diamond_axe netherite_axe
-texture=diamond_axe.png
-nbt.display.Name=ipattern:ruby axe

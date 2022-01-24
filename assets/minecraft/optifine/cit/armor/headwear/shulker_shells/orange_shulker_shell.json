@@ -1,8 +1,0 @@
-{
-  "credit": "Custom Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "./shulker_shell_parent",
-  "textures": {
-    "0": "entity/shulker/shulker_orange",
-    "particle": "entity/shulker/shulker_orange"
-  }
-}

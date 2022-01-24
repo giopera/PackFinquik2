@@ -1,8 +1,0 @@
-{
-  "credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JT_Additions",
-  "parent": "optifine/cit/name_tags/name_tag_model",
-  "textures": {
-    "0": "./black_chicken_name_tag_icon",
-    "particle": "./black_chicken_name_tag_icon"
-  }
-}
